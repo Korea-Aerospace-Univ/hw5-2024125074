@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main(void)
 {
     int N=0 ; // 금액을 나타내는 양의 정수 N입력 받기
